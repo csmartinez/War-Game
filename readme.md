@@ -1,12 +1,9 @@
-# War Card Game (Renew Financial Code Challenge)
+# War Card Game (Code Challenge)
 
 ## How to Run Locally (Mac)
 
 1. **Open your terminal.**
-2. **Navigate to the project directory:**
-   ```sh
-   cd "War Code Challenge"
-   ```
+2. **Navigate to the project directory**
 3. **Run the game:**
    ```sh
    ruby war.rb
